@@ -1,13 +1,11 @@
 Über mich
 
-🚀 Hallo, ich bin Christian-Wilhelm Budde, ein leidenschaftlicher FullStack-Entwickler mit einem starken Antrieb, die Firma MeKo auf die nächste Stufe zu heben. Mein Weg begann mit einem erfolgreichen Abschluss in Elektrotechnik und Informationstechnik an der renommierten RWTH Aachen, wo ich den Titel eines Diplom-Ingenieurs (ET / IT) erlangte.
+🚀 Hallo, ich bin Christian-Wilhelm Budde, ein engagierter FullStack-Entwickler mit dem Ziel, die Firma MeKo voranzubringen. Ich habe Elektrotechnik und Informationstechnik an der RWTH Aachen studiert und den Abschluss als Diplom-Ingenieur (ET/IT) erworben.
 
-💡 Mit über 20 Jahren Berufserfahrung habe ich die Gelegenheit gehabt, ein breites Spektrum an Fähigkeiten und Wissen anzusammeln. Diese Reise führte mich durch aufregende technologische Entwicklungen und Herausforderungen in verschiedenen Branchen.
+💡 Mit über 20 Jahren Berufserfahrung habe ich ein breites Spektrum an Fähigkeiten und Wissen in verschiedenen Branchen gesammelt. Diese Zeit hat es mir ermöglicht, an vielfältigen technologischen Entwicklungen und Herausforderungen teilzunehmen.
 
-🌐 Als FullStack-Entwickler beherrsche ich nicht nur das Backend, sondern auch das Frontend. Ich liebe es, innovative Lösungen zu schaffen, die nicht nur technisch solide sind, sondern auch die Benutzererfahrung auf das nächste Level heben.
+🌐 Als FullStack-Entwickler beherrsche ich sowohl Backend- als auch Frontend-Technologien. Ich lege Wert darauf, innovative und technisch fundierte Lösungen zu entwickeln, die zugleich eine herausragende Benutzererfahrung bieten.
 
-🔧 Meine Leidenschaft für die Technologie treibt mich an, ständig dazuzulernen und mich neuen Herausforderungen zu stellen. Bei MeKo bin ich fest entschlossen, mein Wissen und meine Fähigkeiten einzusetzen, um dazu beizutragen, dass unser Unternehmen erfolgreich wächst und florieren kann.
+🔧 Meine Leidenschaft für Technologie motiviert mich, kontinuierlich dazuzulernen und mich neuen Herausforderungen zu stellen. Bei MeKo setze ich mein Wissen und meine Fähigkeiten ein, um zum Wachstum und Erfolg des Unternehmens beizutragen.
 
-🌟 Lass uns gemeinsam anpacken und die Zukunft gestalten! Ich bin bereit, die Ärmel hochzukrempeln und mit voller Begeisterung dabei zu sein.
-
-📫 Du kannst mich gerne kontaktieren, um Ideen auszutauschen oder an aufregenden Projekten zusammenzuarbeiten. Ich freue mich darauf, von dir zu hören!
+📫 Ich stehe gerne für den Austausch von Ideen oder die Zusammenarbeit an spannenden Projekten zur Verfügung. Ich freue mich darauf, von Ihnen zu hören!
