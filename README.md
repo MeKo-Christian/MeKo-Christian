@@ -1,7 +1,5 @@
 Über mich
 
-Über mich
-
 Hallo, ich bin Christian-Wilhelm Budde. Ich arbeite als FullStack-Entwickler bei MeKo und habe Elektrotechnik und Informationstechnik an der RWTH Aachen studiert (Dipl.-Ing. ET/IT).
 
 Seit über 20 Jahren bin ich in verschiedenen Bereichen der Softwareentwicklung tätig – mit Erfahrungen vom Embedded-Bereich bis hin zu modernen Webanwendungen. In meiner aktuellen Rolle beschäftige ich mich mit der Entwicklung und Betreuung technischer Lösungen, sowohl im Backend als auch im Frontend.
